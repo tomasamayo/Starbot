@@ -11,7 +11,7 @@ let handler = async m => m.reply(`
 ➤ 2 teléfonos o un 1 teléfono y una PC (es temporal - solo para escanear un código QR)
 
 💥 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 💥
-➤ https://github.com/BrunoSobrino/StarBotV3
+➤ https://github.com/tomasamayo/StarBotV3
 
 💥 𝐀𝐑𝐄𝐀 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 💥
 ➤ Termux: https://f-droid.org/en/packages/com.termux/
@@ -24,7 +24,7 @@ let handler = async m => m.reply(`
 ➤ apt install nodejs -y
 ➤ apt install ffmpeg -y
 ➤ apt install imagemagick -y
-➤ git clone https://github.com/BrunoSobrino/StarBotV3
+➤ git clone https://github.com/tomasamayo/StarBotV3
 ➤ cd StarBotV3
 ➤ npm install
 ➤ npm install -g npm@8.5.4
